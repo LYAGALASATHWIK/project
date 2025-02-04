@@ -124,13 +124,6 @@ This script will:
 ### Voice Commands
 - The chatbot also accepts voice input, which can be used to ask questions or request specific data.
 
-## Project Screenshots
-###  1. Chatbot Interface
-![Logo](https://github.com/AzimMohideen/Chatbot/blob/main/Interface.png)
-### 2. Tech Solutions Home Page
-![Logo](https://github.com/AzimMohideen/Chatbot/blob/main/HomePage.png)
-
-
 ## Technologies Used
 
 - Python: Backend logic, chatbot development using PyTorch.
@@ -146,11 +139,7 @@ This script will:
 - Refined UI: Improve UI/UX with modern design elements.
 - Deployment: Deploy the app on cloud platforms like AWS or Heroku.
 
-## Contributing
-Contributions are welcome! Please fork this repository and submit a pull request for any improvements.
-- @Chorko C
-- @KRISHNASAKTHIESWAR
-- @bhrahmesh
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -158,8 +147,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For any inquiries or issues, please contact:
-- Name: Azim Mohideen
-- Email: azim.mohideen@gmail.com
+- Name: lyagala sathwik
+- Email: sathvikyadav12345@gmail.com
 
 
 
